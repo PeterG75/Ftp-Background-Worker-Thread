@@ -1,0 +1,9 @@
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\obj\Debug\ResolveAssemblyReference.cache
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\obj\Debug\BgWorkerTesting.Form1.resources
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\obj\Debug\BgWorkerTesting.Properties.Resources.resources
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\obj\Debug\BgWorkerTesting.csproj.GenerateResource.Cache
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\bin\Debug\BgWorkerTesting.exe
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\bin\Debug\BgWorkerTesting.pdb
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\bin\Debug\ChilkatDotNet2.dll
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\obj\Debug\BgWorkerTesting.exe
+C:\ckGitHubProjects\Ftp-Background-Worker-Thread\obj\Debug\BgWorkerTesting.pdb
